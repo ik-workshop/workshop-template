@@ -1,1 +1,1 @@
-# Workshop Template
+# Workshop Blueprint
