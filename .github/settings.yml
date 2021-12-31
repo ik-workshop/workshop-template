@@ -4,9 +4,9 @@ _extends: .github
 repository:
   # See https://developer.github.com/v3/repos/#edit for all available settings.
   name: workshop-blueprint
-  description: Workshop blueprint.
+  description: ':factory: Workshop blueprint'
   homepage: https://ivankatliarchuk.github.io
-  topics: ivka, workshop
+  topics: ivka, workshop, blueprint
   private: false
   has_issues: true
   has_projects: false
